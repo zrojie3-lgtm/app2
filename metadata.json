@@ -1,0 +1,6 @@
+{
+  "name": "Data Monitor",
+  "description": "مدیریت و پایش مصرف بسته اینترنت سیم‌کارت و وای‌فای به تفکیک برنامه‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
